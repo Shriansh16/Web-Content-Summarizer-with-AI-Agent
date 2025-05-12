@@ -4,5 +4,4 @@ requests
 beautifulsoup4
 bs4
 langchain_openai
-crewai
-chromadb==0.4.15
+crewai==0.28.0
