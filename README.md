@@ -16,7 +16,7 @@ Deployed Link: https://web-content-summarizer-with-ai-agent.streamlit.app/
 
 ## Technologies Used 🛠️
 
-- Python 3.x
+- Python 3.12
 - Streamlit (for web interface)
 - CrewAI (for agent orchestration)
 - LangChain (LLM integration)
