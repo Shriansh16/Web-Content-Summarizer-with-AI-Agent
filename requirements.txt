@@ -4,4 +4,4 @@ requests
 beautifulsoup4
 bs4
 langchain_openai
-crewai==0.14.5
+crewai
